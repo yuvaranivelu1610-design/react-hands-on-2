@@ -1,0 +1,11 @@
+import Student from "./component/student";
+
+function App() {
+  return (
+    <div className="App">
+      <Student />
+    </div>
+  );
+}
+
+export default App;
